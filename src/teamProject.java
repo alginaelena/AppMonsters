@@ -4,5 +4,7 @@ public class teamProject {
             System.out.println("Hi");
         }
 
+        System.out.println("first test");
+
     }
 }
